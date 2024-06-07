@@ -209,3 +209,5 @@ accelerate
 colorama
 pydantic
 langdetect
+ragas-haystack
+deepeval
