@@ -210,4 +210,4 @@ colorama
 pydantic
 langdetect
 ragas-haystack
-deepeval
+deepeval==0.21.51
