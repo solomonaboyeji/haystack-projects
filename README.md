@@ -8,3 +8,4 @@ Unless specified at the top of the notebook, OpenAI models will be used. Add `OP
 
 - `OPENAI_API_KEY` -> OpenAI API token
 - `HF_API_TOKEN` -> Hugging Face API token
+- `SERPERDEV_API_KEY` -> SERPER API Key for searching Google
